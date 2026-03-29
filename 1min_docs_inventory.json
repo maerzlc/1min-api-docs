@@ -1,0 +1,1464 @@
+{
+  "selected_routes": [
+    "/docs/api/ai-feature-api",
+    "/docs/api/ai-for-audio/audio-translator/audio-translator-tag",
+    "/docs/api/ai-for-audio/music-generator/music-generator-tag",
+    "/docs/api/ai-for-audio/speech-to-text/speech-to-text-tag",
+    "/docs/api/ai-for-audio/text-to-sound/text-to-sound-tag",
+    "/docs/api/ai-for-audio/text-to-speech/google",
+    "/docs/api/ai-for-audio/voice-changer",
+    "/docs/api/ai-for-audio/voice-cloning/elevenlabs-voice-cloning",
+    "/docs/api/ai-for-audio/voice-design/elevenlabs-voice-design",
+    "/docs/api/ai-for-audio/voice-isolator/elevenlabs-voice-isolator",
+    "/docs/api/ai-for-code/code-generator/code-generator-tag",
+    "/docs/api/ai-for-image/3d-image-generator/trellis-3d-image-generator",
+    "/docs/api/ai-for-image/background-remover/background-remover-tag",
+    "/docs/api/ai-for-image/background-replacer/recraft-background-replacer",
+    "/docs/api/ai-for-image/chat-with-image/chat-with-image-tag",
+    "/docs/api/ai-for-image/face-swapper/dzine-face-swapper",
+    "/docs/api/ai-for-image/image-extender/image-extender-tag",
+    "/docs/api/ai-for-image/image-generator/image-generator-tag",
+    "/docs/api/ai-for-image/image-mask-editor/image-mask-editor-tag",
+    "/docs/api/ai-for-image/image-text-editor/image-text-editor-tag",
+    "/docs/api/ai-for-image/image-to-prompt/image-to-prompt-tag",
+    "/docs/api/ai-for-image/image-upscaler/image-upscaler-tag",
+    "/docs/api/ai-for-image/image-variator/image-variator-tag",
+    "/docs/api/ai-for-image/object-remover/object-remover-tag",
+    "/docs/api/ai-for-image/search-and-replace/stable-image-core-search-and-replace",
+    "/docs/api/ai-for-image/sketch-to-image/sketch-to-image-tag",
+    "/docs/api/ai-for-image/text-remover/stable-diffusion-xl-text-remover",
+    "/docs/api/ai-for-video/caption-generator/caption-generator-tag",
+    "/docs/api/ai-for-video/chat-with-youtube-video/chat-with-youtube-video-tag",
+    "/docs/api/ai-for-video/image-to-video/image-to-video-tag",
+    "/docs/api/ai-for-video/text-to-video/text-to-video-tag",
+    "/docs/api/ai-for-video/video-face-swap/video-face-swap-tag",
+    "/docs/api/ai-for-video/youtube-summarizer/youtube-summarizer-tag",
+    "/docs/api/ai-for-video/youtube-transcriber/youtube-transcriber-tag",
+    "/docs/api/ai-for-video/youtube-translator/youtube-translator-tag",
+    "/docs/api/ai-for-writing/content-expander/content-expander-tag",
+    "/docs/api/ai-for-writing/content-generator/content-generator-tag",
+    "/docs/api/ai-for-writing/content-paraphraser/content-paraphraser-tag",
+    "/docs/api/ai-for-writing/content-shortener/content-shortener-tag",
+    "/docs/api/ai-for-writing/content-summarizer/content-summarizer-tag",
+    "/docs/api/ai-for-writing/content-translator/content-translator-tag",
+    "/docs/api/ai-for-writing/grammar-checker/grammar-checker-tag",
+    "/docs/api/ai-for-writing/keyword-research/keyword-research-tag",
+    "/docs/api/ai-for-writing/rewriter/rewriter-tag",
+    "/docs/api/asset-api",
+    "/docs/api/chat-with-ai-api",
+    "/docs/api/conversation-api",
+    "/docs/api/create-api-key",
+    "/docs/api/intro",
+    "/docs/api/specifications/credits-limits",
+    "/docs/api/specifications/rate-limits"
+  ],
+  "pages": [
+    {
+      "route": "/docs/api/ai-feature-api",
+      "title": "/docs/api/ai-feature-api",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;",
+        "https://api.1min.ai/api/features?isStreaming=true",
+        "https://api.1min.ai/api/features?isStreaming=true&#x27;",
+        "https://api.1min.ai/api/features?isStreaming=true&quot;"
+      ],
+      "tokens": [
+        "CHAT_WITH_AI",
+        "CHAT_WITH_IMAGE",
+        "CHAT_WITH_PDF",
+        "CHAT_WITH_YOUTUBE_VIDEO",
+        "IMAGE_GENERATOR",
+        "IMAGE_VARIATOR",
+        "UNIFY_CHAT_WITH_AI"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/audio-translator/audio-translator-tag",
+      "title": "/docs/api/ai-for-audio/audio-translator/audio-translator-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features"
+      ],
+      "tokens": [
+        "AUDIO_TRANSLATOR"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/music-generator/music-generator-tag",
+      "title": "/docs/api/ai-for-audio/music-generator/music-generator-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/speech-to-text/speech-to-text-tag",
+      "title": "/docs/api/ai-for-audio/speech-to-text/speech-to-text-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/text-to-sound/text-to-sound-tag",
+      "title": "/docs/api/ai-for-audio/text-to-sound/text-to-sound-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/text-to-speech/google",
+      "title": "/docs/api/ai-for-audio/text-to-speech/google",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "TEXT_TO_SPEECH"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/voice-changer",
+      "title": "/docs/api/ai-for-audio/voice-changer",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "VOICE_CHANGER"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/voice-cloning/elevenlabs-voice-cloning",
+      "title": "/docs/api/ai-for-audio/voice-cloning/elevenlabs-voice-cloning",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "VOICE_CLONING"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/voice-design/elevenlabs-voice-design",
+      "title": "/docs/api/ai-for-audio/voice-design/elevenlabs-voice-design",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "VOICE_DESIGN"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-audio/voice-isolator/elevenlabs-voice-isolator",
+      "title": "/docs/api/ai-for-audio/voice-isolator/elevenlabs-voice-isolator",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "VOICE_ISOLATOR"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-code/code-generator/code-generator-tag",
+      "title": "/docs/api/ai-for-code/code-generator/code-generator-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "CODE_GENERATOR"
+      ],
+      "supported_tokens": [
+        "CODE_GENERATOR"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-image/3d-image-generator/trellis-3d-image-generator",
+      "title": "/docs/api/ai-for-image/3d-image-generator/trellis-3d-image-generator",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "EXAMPLE_CREDENTIAL",
+        "IMAGE_3D_GENERATOR"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/background-remover/background-remover-tag",
+      "title": "/docs/api/ai-for-image/background-remover/background-remover-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/background-replacer/recraft-background-replacer",
+      "title": "/docs/api/ai-for-image/background-replacer/recraft-background-replacer",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;",
+        "https://api.1min.ai/api/recraft/styles",
+        "https://api.1min.ai/api/recraft/styles&quot;",
+        "https://api.1min.ai/api/recraft/styles?taskType=recraftv3&#x27;",
+        "https://api.1min.ai/api/recraft/styles?taskType=recraftv3&quot;"
+      ],
+      "tokens": [
+        "BACKGROUND_REPLACER",
+        "EXAMPLE_CREDENTIAL"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/chat-with-image/chat-with-image-tag",
+      "title": "/docs/api/ai-for-image/chat-with-image/chat-with-image-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/face-swapper/dzine-face-swapper",
+      "title": "/docs/api/ai-for-image/face-swapper/dzine-face-swapper",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "FACE_SWAPPER"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-extender/image-extender-tag",
+      "title": "/docs/api/ai-for-image/image-extender/image-extender-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-generator/image-generator-tag",
+      "title": "/docs/api/ai-for-image/image-generator/image-generator-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-mask-editor/image-mask-editor-tag",
+      "title": "/docs/api/ai-for-image/image-mask-editor/image-mask-editor-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-text-editor/image-text-editor-tag",
+      "title": "/docs/api/ai-for-image/image-text-editor/image-text-editor-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-to-prompt/image-to-prompt-tag",
+      "title": "/docs/api/ai-for-image/image-to-prompt/image-to-prompt-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "IMAGE_TO_PROMPT"
+      ],
+      "supported_tokens": [
+        "IMAGE_TO_PROMPT"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-upscaler/image-upscaler-tag",
+      "title": "/docs/api/ai-for-image/image-upscaler/image-upscaler-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/image-variator/image-variator-tag",
+      "title": "/docs/api/ai-for-image/image-variator/image-variator-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/object-remover/object-remover-tag",
+      "title": "/docs/api/ai-for-image/object-remover/object-remover-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/search-and-replace/stable-image-core-search-and-replace",
+      "title": "/docs/api/ai-for-image/search-and-replace/stable-image-core-search-and-replace",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "EXAMPLE_CREDENTIAL",
+        "SEARCH_AND_REPLACE"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/sketch-to-image/sketch-to-image-tag",
+      "title": "/docs/api/ai-for-image/sketch-to-image/sketch-to-image-tag",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-image/text-remover/stable-diffusion-xl-text-remover",
+      "title": "/docs/api/ai-for-image/text-remover/stable-diffusion-xl-text-remover",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "EXAMPLE_CREDENTIAL",
+        "TEXT_REMOVER"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-video/caption-generator/caption-generator-tag",
+      "title": "/docs/api/ai-for-video/caption-generator/caption-generator-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "CAPTIONS_GENERATOR"
+      ],
+      "supported_tokens": [
+        "CAPTIONS_GENERATOR"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-video/chat-with-youtube-video/chat-with-youtube-video-tag",
+      "title": "/docs/api/ai-for-video/chat-with-youtube-video/chat-with-youtube-video-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/conversations",
+        "https://api.1min.ai/api/conversations&#x27;",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;"
+      ],
+      "tokens": [
+        "CHAT_WITH_YOUTUBE_VIDEO"
+      ],
+      "supported_tokens": [
+        "CHAT_WITH_YOUTUBE_VIDEO"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-video/image-to-video/image-to-video-tag",
+      "title": "/docs/api/ai-for-video/image-to-video/image-to-video-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features"
+      ],
+      "tokens": [
+        "IMAGE_TO_VIDEO"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-video/text-to-video/text-to-video-tag",
+      "title": "/docs/api/ai-for-video/text-to-video/text-to-video-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features"
+      ],
+      "tokens": [
+        "TEXT_TO_VIDEO"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-video/video-face-swap/video-face-swap-tag",
+      "title": "/docs/api/ai-for-video/video-face-swap/video-face-swap-tag",
+      "endpoints": [
+        "https://api.1min.ai",
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "VIDEO_FACE_SWAPPER"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-video/youtube-summarizer/youtube-summarizer-tag",
+      "title": "/docs/api/ai-for-video/youtube-summarizer/youtube-summarizer-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "YOUTUBE_SUMMARIZER"
+      ],
+      "supported_tokens": [
+        "YOUTUBE_SUMMARIZER"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-video/youtube-transcriber/youtube-transcriber-tag",
+      "title": "/docs/api/ai-for-video/youtube-transcriber/youtube-transcriber-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "YOUTUBE_TRANSCRIBER"
+      ],
+      "supported_tokens": [
+        "YOUTUBE_TRANSCRIBER"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-video/youtube-translator/youtube-translator-tag",
+      "title": "/docs/api/ai-for-video/youtube-translator/youtube-translator-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "YOUTUBE_TRANSLATOR"
+      ],
+      "supported_tokens": [
+        "YOUTUBE_TRANSLATOR"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-writing/content-expander/content-expander-tag",
+      "title": "/docs/api/ai-for-writing/content-expander/content-expander-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "CONTENT_EXPANDER"
+      ],
+      "supported_tokens": [
+        "CONTENT_EXPANDER"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-writing/content-generator/content-generator-tag",
+      "title": "/docs/api/ai-for-writing/content-generator/content-generator-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features"
+      ],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-writing/content-paraphraser/content-paraphraser-tag",
+      "title": "/docs/api/ai-for-writing/content-paraphraser/content-paraphraser-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-writing/content-shortener/content-shortener-tag",
+      "title": "/docs/api/ai-for-writing/content-shortener/content-shortener-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "CONTENT_SHORTENER"
+      ],
+      "supported_tokens": [
+        "CONTENT_SHORTENER"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-writing/content-summarizer/content-summarizer-tag",
+      "title": "/docs/api/ai-for-writing/content-summarizer/content-summarizer-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-writing/content-translator/content-translator-tag",
+      "title": "/docs/api/ai-for-writing/content-translator/content-translator-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "CONTENT_TRANSLATOR"
+      ],
+      "supported_tokens": [
+        "CONTENT_TRANSLATOR"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-writing/grammar-checker/grammar-checker-tag",
+      "title": "/docs/api/ai-for-writing/grammar-checker/grammar-checker-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "GRAMMAR_CHECKER"
+      ],
+      "supported_tokens": [
+        "GRAMMAR_CHECKER"
+      ]
+    },
+    {
+      "route": "/docs/api/ai-for-writing/keyword-research/keyword-research-tag",
+      "title": "/docs/api/ai-for-writing/keyword-research/keyword-research-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [
+        "KEYWORD_RESEARCH",
+        "KEYWORD_STATISTICS"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/ai-for-writing/rewriter/rewriter-tag",
+      "title": "/docs/api/ai-for-writing/rewriter/rewriter-tag",
+      "endpoints": [
+        "https://api.1min.ai/api/features",
+        "https://api.1min.ai/api/features&#x27;",
+        "https://api.1min.ai/api/features&quot;"
+      ],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/asset-api",
+      "title": "/docs/api/asset-api",
+      "endpoints": [
+        "https://api.1min.ai/api/assets",
+        "https://api.1min.ai/api/assets&#x27;",
+        "https://api.1min.ai/api/assets&quot;"
+      ],
+      "tokens": [
+        "IMAGE_GENERATOR"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/chat-with-ai-api",
+      "title": "/docs/api/chat-with-ai-api",
+      "endpoints": [
+        "https://api.1min.ai/api/chat-with-ai",
+        "https://api.1min.ai/api/chat-with-ai&#x27;",
+        "https://api.1min.ai/api/chat-with-ai&quot;",
+        "https://api.1min.ai/api/chat-with-ai?isStreaming=true",
+        "https://api.1min.ai/api/chat-with-ai?isStreaming=true&#x27;",
+        "https://api.1min.ai/api/chat-with-ai?isStreaming=true&quot;"
+      ],
+      "tokens": [
+        "CHAT_WITH_AI",
+        "CHAT_WITH_IMAGE",
+        "CHAT_WITH_PDF",
+        "CHAT_WITH_YOUTUBE_VIDEO",
+        "INVALID_REQUEST",
+        "PROMPT_OBJECT_VALIDATION_FAILED",
+        "RATE_LIMITED",
+        "UNIFY_CHAT_WITH_AI"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/conversation-api",
+      "title": "/docs/api/conversation-api",
+      "endpoints": [
+        "https://api.1min.ai/api/conversations"
+      ],
+      "tokens": [
+        "CHAT_WITH_AI",
+        "CHAT_WITH_IMAGE",
+        "CHAT_WITH_PDF",
+        "CHAT_WITH_YOUTUBE_VIDEO",
+        "INVALID_REQUEST",
+        "UNIFY_CHAT_WITH_AI",
+        "UNPROCESSABLE_ENTITY"
+      ],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/create-api-key",
+      "title": "/docs/api/create-api-key",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/intro",
+      "title": "/docs/api/intro",
+      "endpoints": [
+        "https://api.1min.ai"
+      ],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/specifications/credits-limits",
+      "title": "/docs/api/specifications/credits-limits",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    },
+    {
+      "route": "/docs/api/specifications/rate-limits",
+      "title": "/docs/api/specifications/rate-limits",
+      "endpoints": [],
+      "tokens": [],
+      "supported_tokens": []
+    }
+  ],
+  "model_results": {
+    "AUDIO_TRANSLATOR": {
+      "total": 6,
+      "sample_model_ids": [
+        "qwen3-livetranslate-flash",
+        "gemini-3.1-pro-preview",
+        "gemini-3-flash-preview",
+        "gemini-2.5-pro",
+        "gemini-2.5-flash",
+        "whisper-1"
+      ],
+      "providers": [
+        "alibaba",
+        "googleai",
+        "openai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-audio/audio-translator/audio-translator-tag"
+      ]
+    },
+    "BACKGROUND_REPLACER": {
+      "total": 4,
+      "sample_model_ids": [
+        "clipdrop",
+        "gpt-image-1-mini",
+        "gpt-image-1",
+        "recraft"
+      ],
+      "providers": [
+        "clipdrop",
+        "openai",
+        "recraft"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-image/background-replacer/recraft-background-replacer"
+      ]
+    },
+    "CAPTIONS_GENERATOR": {
+      "total": 1,
+      "sample_model_ids": [
+        "whisper-1"
+      ],
+      "providers": [
+        "openai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/caption-generator/caption-generator-tag"
+      ]
+    },
+    "CHAT_WITH_AI": {
+      "total": 61,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514",
+        "claude-opus-4-1-20250805",
+        "claude-haiku-4-5-20251001"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "perplexity",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 3,
+      "routes": [
+        "/docs/api/ai-feature-api",
+        "/docs/api/chat-with-ai-api",
+        "/docs/api/conversation-api"
+      ]
+    },
+    "CHAT_WITH_IMAGE": {
+      "total": 23,
+      "sample_model_ids": [
+        "qwen3-vl-plus",
+        "qwen3-vl-flash",
+        "qwen-vl-plus",
+        "qwen-vl-max",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514",
+        "claude-opus-4-1-20250805",
+        "claude-haiku-4-5-20251001"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "googleai",
+        "openai",
+        "xai"
+      ],
+      "route_count": 3,
+      "routes": [
+        "/docs/api/ai-feature-api",
+        "/docs/api/chat-with-ai-api",
+        "/docs/api/conversation-api"
+      ]
+    },
+    "CHAT_WITH_PDF": {
+      "total": 28,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514",
+        "claude-opus-4-1-20250805",
+        "claude-haiku-4-5-20251001"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "googleai",
+        "openai",
+        "xai"
+      ],
+      "route_count": 3,
+      "routes": [
+        "/docs/api/ai-feature-api",
+        "/docs/api/chat-with-ai-api",
+        "/docs/api/conversation-api"
+      ]
+    },
+    "CHAT_WITH_YOUTUBE_VIDEO": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 4,
+      "routes": [
+        "/docs/api/ai-feature-api",
+        "/docs/api/ai-for-video/chat-with-youtube-video/chat-with-youtube-video-tag",
+        "/docs/api/chat-with-ai-api",
+        "/docs/api/conversation-api"
+      ]
+    },
+    "CODE_GENERATOR": {
+      "total": 20,
+      "sample_model_ids": [
+        "qwen3-coder-plus",
+        "qwen3-coder-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-1-20250805",
+        "claude-haiku-4-5-20251001",
+        "deepseek-reasoner"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "deepseek",
+        "googleai",
+        "openai",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-code/code-generator/code-generator-tag"
+      ]
+    },
+    "CONTENT_EXPANDER": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-writing/content-expander/content-expander-tag"
+      ]
+    },
+    "CONTENT_SHORTENER": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-writing/content-shortener/content-shortener-tag"
+      ]
+    },
+    "CONTENT_TRANSLATOR": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-writing/content-translator/content-translator-tag"
+      ]
+    },
+    "EXAMPLE_CREDENTIAL": {
+      "total": 0,
+      "sample_model_ids": [],
+      "providers": [],
+      "route_count": 4,
+      "routes": [
+        "/docs/api/ai-for-image/3d-image-generator/trellis-3d-image-generator",
+        "/docs/api/ai-for-image/background-replacer/recraft-background-replacer",
+        "/docs/api/ai-for-image/search-and-replace/stable-image-core-search-and-replace",
+        "/docs/api/ai-for-image/text-remover/stable-diffusion-xl-text-remover"
+      ]
+    },
+    "FACE_SWAPPER": {
+      "total": 2,
+      "sample_model_ids": [
+        "dzine",
+        "Qubico/image-toolkit"
+      ],
+      "providers": [
+        "dzine",
+        "piapi"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-image/face-swapper/dzine-face-swapper"
+      ]
+    },
+    "GRAMMAR_CHECKER": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-writing/grammar-checker/grammar-checker-tag"
+      ]
+    },
+    "IMAGE_3D_GENERATOR": {
+      "total": 2,
+      "sample_model_ids": [
+        "Qubico/trellis",
+        "stable-image"
+      ],
+      "providers": [
+        "piapi",
+        "stabilityai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-image/3d-image-generator/trellis-3d-image-generator"
+      ]
+    },
+    "IMAGE_GENERATOR": {
+      "total": 34,
+      "sample_model_ids": [
+        "qwen-image-plus",
+        "qwen-image-max",
+        "black-forest-labs/flux-schnell-lora",
+        "black-forest-labs/flux-schnell",
+        "black-forest-labs/flux-krea-dev",
+        "black-forest-labs/flux-dev-lora",
+        "black-forest-labs/flux-dev",
+        "black-forest-labs/flux-1.1-pro-ultra",
+        "black-forest-labs/flux-1.1-pro",
+        "dzine"
+      ],
+      "providers": [
+        "alibaba",
+        "dzine",
+        "googleai",
+        "leonardoai",
+        "openai",
+        "recraft",
+        "replicate",
+        "stabilityai",
+        "ttapi",
+        "xai"
+      ],
+      "route_count": 2,
+      "routes": [
+        "/docs/api/ai-feature-api",
+        "/docs/api/asset-api"
+      ]
+    },
+    "IMAGE_TO_PROMPT": {
+      "total": 3,
+      "sample_model_ids": [
+        "magic-art",
+        "midjourney",
+        "methexis-inc/img2prompt:50adaf2d3ad20a6f911a8a9e3ccf777b263b8596fbd2c8fc26e8888f8a0edbb5"
+      ],
+      "providers": [
+        "replicate",
+        "ttapi"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-image/image-to-prompt/image-to-prompt-tag"
+      ]
+    },
+    "IMAGE_TO_VIDEO": {
+      "total": 9,
+      "sample_model_ids": [
+        "pika",
+        "kling",
+        "leonardo-motion",
+        "luma",
+        "veo3-video",
+        "Qubico/skyreels",
+        "hailuo",
+        "Qubico/hunyuan",
+        "Qubico/wanx"
+      ],
+      "providers": [
+        "falai",
+        "leonardoai",
+        "piapi",
+        "ttapi"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/image-to-video/image-to-video-tag"
+      ]
+    },
+    "IMAGE_VARIATOR": {
+      "total": 11,
+      "sample_model_ids": [
+        "black-forest-labs/flux-redux-schnell",
+        "black-forest-labs/flux-redux-dev",
+        "dzine",
+        "magic-art_7_0",
+        "magic-art_6_1",
+        "magic-art",
+        "midjourney_7_0",
+        "midjourney_6_1",
+        "midjourney",
+        "dall-e-2"
+      ],
+      "providers": [
+        "dzine",
+        "openai",
+        "recraft",
+        "replicate",
+        "ttapi"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-feature-api"
+      ]
+    },
+    "INVALID_REQUEST": {
+      "total": 0,
+      "sample_model_ids": [],
+      "providers": [],
+      "route_count": 2,
+      "routes": [
+        "/docs/api/chat-with-ai-api",
+        "/docs/api/conversation-api"
+      ]
+    },
+    "KEYWORD_RESEARCH": {
+      "total": 59,
+      "sample_model_ids": [
+        "NOT_APPLICABLE",
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-writing/keyword-research/keyword-research-tag"
+      ]
+    },
+    "KEYWORD_STATISTICS": {
+      "total": 0,
+      "sample_model_ids": [],
+      "providers": [],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-writing/keyword-research/keyword-research-tag"
+      ]
+    },
+    "PROMPT_OBJECT_VALIDATION_FAILED": {
+      "total": 0,
+      "sample_model_ids": [],
+      "providers": [],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/chat-with-ai-api"
+      ]
+    },
+    "RATE_LIMITED": {
+      "total": 0,
+      "sample_model_ids": [],
+      "providers": [],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/chat-with-ai-api"
+      ]
+    },
+    "SEARCH_AND_REPLACE": {
+      "total": 1,
+      "sample_model_ids": [
+        "stable-image"
+      ],
+      "providers": [
+        "stabilityai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-image/search-and-replace/stable-image-core-search-and-replace"
+      ]
+    },
+    "TEXT_REMOVER": {
+      "total": 1,
+      "sample_model_ids": [
+        "clipdrop"
+      ],
+      "providers": [
+        "clipdrop"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-image/text-remover/stable-diffusion-xl-text-remover"
+      ]
+    },
+    "TEXT_TO_SPEECH": {
+      "total": 5,
+      "sample_model_ids": [
+        "qwen3-tts-flash",
+        "elevenlabs-tts",
+        "google-tts",
+        "tts-1-hd",
+        "tts-1"
+      ],
+      "providers": [
+        "alibaba",
+        "elevenlabs",
+        "openai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-audio/text-to-speech/google"
+      ]
+    },
+    "TEXT_TO_VIDEO": {
+      "total": 11,
+      "sample_model_ids": [
+        "cjwbw/damo-text-to-video:1e205ea73084bd17a0a3b43396e49ba0d6bc2e754e9283b2df49fad2dcf95755",
+        "pika",
+        "kling",
+        "luma",
+        "sora-2-pro",
+        "sora-2",
+        "veo3-video",
+        "hailuo",
+        "Qubico/hunyuan",
+        "Qubico/wanx"
+      ],
+      "providers": [
+        "falai",
+        "openai",
+        "piapi",
+        "replicate",
+        "ttapi"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/text-to-video/text-to-video-tag"
+      ]
+    },
+    "UNIFY_CHAT_WITH_AI": {
+      "total": 68,
+      "sample_model_ids": [
+        "qwen3-vl-plus",
+        "qwen3-vl-flash",
+        "qwen3-max",
+        "qwen-vl-plus",
+        "qwen-vl-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "perplexity",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 3,
+      "routes": [
+        "/docs/api/ai-feature-api",
+        "/docs/api/chat-with-ai-api",
+        "/docs/api/conversation-api"
+      ]
+    },
+    "UNPROCESSABLE_ENTITY": {
+      "total": 0,
+      "sample_model_ids": [],
+      "providers": [],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/conversation-api"
+      ]
+    },
+    "VIDEO_FACE_SWAPPER": {
+      "total": 1,
+      "sample_model_ids": [
+        "Qubico/video-toolkit"
+      ],
+      "providers": [
+        "piapi"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/video-face-swap/video-face-swap-tag"
+      ]
+    },
+    "VOICE_CHANGER": {
+      "total": 1,
+      "sample_model_ids": [
+        "elevenlabs-voice-changer"
+      ],
+      "providers": [
+        "elevenlabs"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-audio/voice-changer"
+      ]
+    },
+    "VOICE_CLONING": {
+      "total": 1,
+      "sample_model_ids": [
+        "elevenlabs-voice-cloning"
+      ],
+      "providers": [
+        "elevenlabs"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-audio/voice-cloning/elevenlabs-voice-cloning"
+      ]
+    },
+    "VOICE_DESIGN": {
+      "total": 1,
+      "sample_model_ids": [
+        "elevenlabs-voice-design"
+      ],
+      "providers": [
+        "elevenlabs"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-audio/voice-design/elevenlabs-voice-design"
+      ]
+    },
+    "VOICE_ISOLATOR": {
+      "total": 1,
+      "sample_model_ids": [
+        "elevenlabs-voice-isolator"
+      ],
+      "providers": [
+        "elevenlabs"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-audio/voice-isolator/elevenlabs-voice-isolator"
+      ]
+    },
+    "YOUTUBE_SUMMARIZER": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/youtube-summarizer/youtube-summarizer-tag"
+      ]
+    },
+    "YOUTUBE_TRANSCRIBER": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/youtube-transcriber/youtube-transcriber-tag"
+      ]
+    },
+    "YOUTUBE_TRANSLATOR": {
+      "total": 56,
+      "sample_model_ids": [
+        "qwen3-max",
+        "qwen-plus",
+        "qwen-max",
+        "qwen-flash",
+        "claude-sonnet-4-6",
+        "claude-sonnet-4-5-20250929",
+        "claude-sonnet-4-20250514",
+        "claude-opus-4-6",
+        "claude-opus-4-5-20251101",
+        "claude-opus-4-20250514"
+      ],
+      "providers": [
+        "alibaba",
+        "anthropic",
+        "cohere",
+        "deepseek",
+        "googleai",
+        "mistralai",
+        "openai",
+        "replicate",
+        "xai"
+      ],
+      "route_count": 1,
+      "routes": [
+        "/docs/api/ai-for-video/youtube-translator/youtube-translator-tag"
+      ]
+    }
+  }
+}
